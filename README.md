@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Gurram</h1>
-<h3 align="center">🔐 Cybersecurity Engineer | SOC Analyst | VAPT | CEH v13 AI | CNSP</h3>
+<h3 align="center">🔐 Cybersecurity Engineer | SOC Analyst | Network Security testing | VAPT | CEH v13 AI | CNSP</h3>
 
 ---
 
